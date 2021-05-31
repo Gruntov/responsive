@@ -2,6 +2,7 @@
 @import 'reset.css';
 @import "menu.css";
 @import "content.css";
+@import "mobile.css";
 
 body {
     font-family: 'Source Sans Pro', sans-serif;
